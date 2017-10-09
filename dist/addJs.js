@@ -1,0 +1,1 @@
+function sp(n){for(var o=[],r=0;r<n.length;r++)o.push(n[r]);return o}var a=0,b=2;console.log(a+b),sp([1,2,3]);
